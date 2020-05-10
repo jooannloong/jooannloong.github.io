@@ -248,19 +248,19 @@
 @font-face {
 	font-family: Simonetta;
 	font-weight: normal;
-	font-style: italic;
-	src: url('fonts/Simonetta-Italic.eot');
-	src: url('fonts/Simonetta-Italic.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Italic.ttf') format('truetype');
+	font-style: normal;
+	src: url('fonts/Simonetta-Regular.eot');
+	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Regular.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: Simonetta;
 	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/Simonetta-Regular.eot');
-	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Regular.ttf') format('truetype');
+	font-style: italic;
+	src: url('fonts/Simonetta-Italic.eot');
+	src: url('fonts/Simonetta-Italic.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Italic.ttf') format('truetype');
 }
 
 @font-face {
