@@ -2,7 +2,7 @@ klynt.miniPlayerData = {
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "title": "Anxiety the Crow ",
     "thanksForWatchingWording": "Thanks for watching!",
-    "description": "",
+    "downloadAppWording": "Download App",
     "resumePlaybackWording": "Resume playback?",
     "redirectToMobileApp": "auto",
     "yesWording": "Yes",
@@ -10,6 +10,6 @@ klynt.miniPlayerData = {
     "noWording": "No",
     "thumbnail": "Medias/Photos/COVER-2.jpg",
     "analyticsKey": "",
-    "launchAppWording": "Then Launch Project",
-    "downloadAppWording": "Download App"
+    "description": "",
+    "launchAppWording": "Then Launch Project"
 }
